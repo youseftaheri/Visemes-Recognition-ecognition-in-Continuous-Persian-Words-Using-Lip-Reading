@@ -1,6 +1,6 @@
 # Visemes-Recognition-ecognition-in-Continuous-Persian-Words-Using-Lip-Reading
 
-ABSTRACT
+ABSTRACT:
 The main preference in this paper by comparison with other
 researches is given to application of several specifications
 together in effect to gait toward creating a suitable system for
@@ -28,7 +28,7 @@ on The result of
 testing 10 different utterances was 78.3% for locating visemes
 in continuous uttered words and 67.1% for visemes recognition.
 
-<B>  Keywords
+<B>  Keywords:
 Lip reading, viseme, Continuous words, K-NN,
 NN, Persian. </B>
 
